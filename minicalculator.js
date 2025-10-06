@@ -18,15 +18,20 @@ const perkalian = () => {
 perkalian();
 const pangkat = () => {
   console.log(`penjumlahan ${a} ** ${b} adalah ${a ** b}`);
-};
+};  
 
 pangkat();
 const modulus = () => {
   console.log(`penjumlahan ${a} % ${b} adalah ${a % b}`);
 };
+modulus();
 
-pangkat();
 const pembagian = () => {
   console.log(`penjumlahan ${a} / ${b} adalah ${a / b}`);
 };
 pembagian();
+
+
+
+
+
